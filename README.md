@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm WillAppear, a Bachelor's degree holder currently studying software engineering. <br>
-😎 I'm very interested in the application of large models. <br>
+😎 I'm very interested in the application of large language models. <br>
 🙌 I'm considering learning recommendation algorithms in the future. <br>
 
 
