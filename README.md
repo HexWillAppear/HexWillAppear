@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm WillAppear, a Bachelor's degree holder currently studying software engineering.
-😎 I'm very interested in the application of large models.
-🙌 I'm considering learning recommendation algorithms in the future.
+I'm WillAppear, a Bachelor's degree holder currently studying software engineering. <br>
+😎 I'm very interested in the application of large models. <br>
+🙌 I'm considering learning recommendation algorithms in the future. <br>
 
 
 ## Stats &nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=HexWillAppear&label=Profile%20views&color=0e75b6&style=flat "WillAppear")
